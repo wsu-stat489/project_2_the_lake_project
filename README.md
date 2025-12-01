@@ -1,2 +1,3 @@
-# project_2_the_lake_project
-A template repository for the final project in DSCI 326
+# DSCI 326 - Project 2 - The Lakes Project
+
+A repository shared with students via GitHub Classroom for the final project in DSCI 326
